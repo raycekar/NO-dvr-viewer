@@ -1,0 +1,8 @@
+# Signing keys
+*.keystore
+*.jks
+# Build output
+*.apk
+*.idsig
+*.dex
+out/
